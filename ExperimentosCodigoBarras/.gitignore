@@ -16,8 +16,5 @@ build/
 .idea/
 .vscode/
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
 # Archivos de sistema
 Thumbs.db
